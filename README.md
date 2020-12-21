@@ -1,7 +1,12 @@
 # NNAcc
 For Neural Network Acceleration 
 
-C++ / CUDA / OpenCL / SIMD 
+C++ / CUDA / OpenCL / SIMD / TensorRT 
+
+
+## TensorRT
+- RNNs 
+- Official Docs 
 
 ## CUDA NN Implementation 
 http://luniak.io/cuda-neural-network-implementation-part-1/ 
